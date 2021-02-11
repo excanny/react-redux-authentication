@@ -1,0 +1,122 @@
+body{
+    font-family: 'Inter', sans-serif;
+    }
+
+    .login-image-bg{
+      background-image: url("images/imagebg.png"); /* The image used */
+      background-color: #cccccc; /* Used if the image is unavailable */
+      height: 900px; /* You must set a specified height */
+      width: 56.94%;
+      background-position: center; /* Center the image */
+      background-repeat: no-repeat; /* Do not repeat the image */
+      background-size: cover; /* Resize the background image to cover the entire container */
+    }
+
+    .register-image-bg{
+    background-image: url("images/rectangle10.png"); /* The image used */
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 900px; /* You must set a specified height */
+    width: 56.94%;
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+  }
+
+    .tag-label
+    {
+      font-size: 14px;
+      font-style: normal;
+      font-weight: 600;
+      line-height: 24px;
+      letter-spacing: 0.15em;
+      text-align: left;
+      color: #0E0E19;
+      opacity: 0.71;
+
+    }
+
+    .forgot-label{
+  
+      font-style: normal;
+      font-weight: 600;
+      font-size: 14px;
+      line-height: 24px;
+      letter-spacing: 0.03em;
+      color: #0E0E19;
+      opacity: 0.71;
+    }
+
+    .remember-me-label{
+      font-style: normal;
+      font-weight: 500;
+      font-size: 16px;
+      line-height: 26px;
+      letter-spacing: 0.01em;
+      color: #0E0E19;
+      opacity: 0.71;
+    }
+
+    .no-account-label{
+      font-style: normal;
+      font-weight: normal;
+      font-size: 14px;
+      line-height: 24px;
+      text-align: center;
+      letter-spacing: 0.03em;
+      color: #0E0E19;
+    }
+
+
+    .form-control{
+      width: 350px;
+      height: 48px;
+      background: #FFFFFF;
+      border: 1.5px solid rgba(31, 20, 57, 0.31);
+      box-sizing: border-box;
+      border-radius: 10px;
+    }
+
+    .sign-up-button{
+      width:80%;
+      background: #072D72;
+
+    }
+
+    .register-logo-image{
+      margin-top: 2rem;
+      margin-right: 3rem;
+    }
+
+
+    .terms-section{
+      font-size: 14px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 24px;
+      letter-spacing: 0.03em;
+      text-align: center;
+
+    }
+
+    .link-color{
+      color:#4F6A9B;
+    }
+
+    .register-second-half{
+      width: 43.06%;
+    }
+
+    .login-second-half{
+      width: 43.06%;
+    }
+
+    .create-account-header{
+        font-weight:600;
+        font-style: normal;
+        font-size: 26px;
+        line-height: 36px;
+        letter-spacing: 0.5px;
+        color: #0E0E19;
+    }
+
+
